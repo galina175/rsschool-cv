@@ -13,6 +13,13 @@ My personal qualities: organization and planning of working hours, fast learner,
 * CSS
 * Git
 
+## Code Example
+
+```
+$a = 5; 
+$b = 3; 
+$c = $a + $b; 
+``` 
 ## Education
 * Belarusian State University
 * Courses:
