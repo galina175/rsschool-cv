@@ -25,6 +25,7 @@ $c = $a + $b;
 * Courses:
   + HTML для начинающих [https://ru.code-basics.com/languages/html](адрес "HTML для начинающих")
   + CSS для начинающих [https://ru.code-basics.com/languages/css](адрес "HTML для начинающих")
+  + JavaScript для начинающих [https://ru.code-basics.com/languages/javascript](адрес "HTML для начинающих")
 
 ## English
 **B1** (Intermediate)
